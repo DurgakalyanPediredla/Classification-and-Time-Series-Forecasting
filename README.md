@@ -1,7 +1,7 @@
-**Classification-and-Time-series-Forecastin**
+**Classification-and-Time-series-Forecasting**
 
 
-Classification of bank customers whether customer will subscribe to term diposit or not
+Segmenting bank clientele to predict their inclination toward term deposit subscriptions facilitates strategic targeting, enhancing the efficacy of marketing efforts and customer engagement.
 
 
 **Algorithms used:**
