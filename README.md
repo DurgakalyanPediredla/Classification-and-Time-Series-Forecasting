@@ -1,4 +1,4 @@
-Classification-and-Time-series-Forecasting
+"Classification-and-Time-series-Forecasting"
 Classification of bank customers whether customer will subscribe to term diposit or not
 Algorithms used:
 Logistic Regression
