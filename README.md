@@ -1,6 +1,10 @@
-"Classification-and-Time-series-Forecasting"
+**Classification-and-Time-series-Forecastin**
+
+
 Classification of bank customers whether customer will subscribe to term diposit or not
-Algorithms used:
+
+
+**Algorithms used:**
 Logistic Regression
 KNeighborsClassifier
 Naive Bayes Classifier
